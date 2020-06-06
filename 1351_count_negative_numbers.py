@@ -20,7 +20,7 @@ class Solution():
                 if item < 0:
                     count += 1
                 else:
-                    flag += 1
+                    count += 1
                     break
         return count
 
